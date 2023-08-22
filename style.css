@@ -1,0 +1,32 @@
+td{
+    color: rgb(236, 222, 26);
+    background-color: rgb(218, 102, 25);
+    font-size: 20px;
+    text-align: center;
+    height: 5vh;
+}
+
+tr{
+    color: brown;
+    background-color: black;
+    font-size: 30px;
+    text-align: center;    
+    text-decoration: line-through;
+    text-decoration-style: dotted;
+    text-decoration-color: aqua;
+    text-decoration-thickness: .5px;
+    text-transform: capitalize;
+    line-height: 1.5;
+    word-spacing: 10px;
+    letter-spacing: 10px;
+    font-family: 'Bebas Neue', sans-serif;   
+    
+}
+
+table{
+    color: rgb(33, 236, 26);
+    background-color: rgb(205, 203, 214);
+    font-size: 20px;
+    text-align: center;
+    height: 5vh;
+}
